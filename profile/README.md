@@ -7,13 +7,12 @@
 
 # Four Symbols Theme
 
-**Four Symbols** is a collection of Neovim themes inspired by the four mythical creatures from ancient Chinese mythology: Azure Dragon, White Tiger, Vermilion Bird, and Black Tortoise. Each theme represents a direction, season, and element, aiming to bring a unique visual experience to your editor.
+The Four Emblems is a series of themes inspired by the four great mythological beasts of ancient China: the Azure Dragon, White Tiger, Vermilion Bird, and Black Tortoise. Each theme represents a season and an element, aiming to provide a unique visual experience for the audience.
 
-## Introduction
+- **Azure Dragon**: Represents the east and spring, symbolizing vitality and growth. This theme is characterized by green, azure, and bright colors.
 
-The **Four Symbols** theme series is inspired by the Four Symbols in ancient Chinese mythology. Each theme combines the colors and symbolism of its corresponding mythical creature:
+- **White Tiger**: Represents the west and autumn, symbolizing strength and majesty. This theme is characterized by white and gray colors.
 
-- **Azure Dragon**: Symbolizes the East and spring, representing vitality and growth. The theme features colors primarily in wood, cyan, and blue hues.
-- **White Tiger**: Symbolizes the West and autumn, representing strength and majesty. The theme features colors primarily in white, gray, and metallic hues.
-- **Vermilion Bird**: Symbolizes the South and summer, representing passion and energy. The theme features colors primarily in red, orange, and gold hues.
-- **Black Tortoise**: Symbolizes the North and winter, representing stability and wisdom. The theme features colors primarily in black, deep blue, and cyan hues.
+- **Vermilion Bird**: Represents the south and summer, symbolizing passion and vigor. This theme is characterized by red and orange colors.
+
+- **Black Tortoise**: Represents the north and winter, symbolizing stability and coldness. This theme is characterized by black and blue colors.
