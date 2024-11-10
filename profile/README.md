@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/four-symbols/four-symbols-theme/main/assets/logo/logo.png" width="80" />
-    <h2 align="center">Four Symbols for kitty</h2>
+    <h2 align="center">Four Symbols Theme</h2>
 </p>
 
 <p align="center">The Four Celestial Beasts - the Azure Dragon, the White Tiger, the Vermilion Bird, and the Black Tortoise.</p>
